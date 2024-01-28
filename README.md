@@ -1,6 +1,6 @@
 # DiplomAvetisovNikolay12Mercury
 
-# SQL запросы находятся в файле sql_query.sql
+# SQL запросы находятся в файле SQL.sql
 
 Автоматизирован сценарий:
 

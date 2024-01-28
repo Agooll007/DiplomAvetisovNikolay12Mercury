@@ -1,4 +1,5 @@
-from DiplomAvetisovNikolay12Mercury import configuration, data
+import configuration
+import data
 import requests
 
 
